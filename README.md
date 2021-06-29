@@ -3,7 +3,7 @@ COVID-19 pandemic has brought some of the drastic changes to the world and it's 
 
 
 
------------------------------------------------------------------ CONTRIBUTERS OF THIS PROJECT ---------------------------------- --------------------------------------------
+-------------------------------------------------- CONTRIBUTERS OF THIS PROJECT ---------------------------------- --------------------------------------------
 
 @Satyaraj291 -- Satyaraj Solanki 
 
