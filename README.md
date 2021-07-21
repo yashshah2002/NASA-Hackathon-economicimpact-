@@ -5,7 +5,7 @@ COVID-19 pandemic has brought some of the drastic changes to the world and it's 
 
 -------------------------------------------------- CONTRIBUTERS OF THIS PROJECT ---------------------------------- --------------------------------------------
 
-@Satyaraj291 -- Satyaraj Solanki 
+@Satyaraj291(https://github.com/Satyaraj291) -- Satyaraj Solanki 
 
 THNAK YOU GUYS FOR JOINING TEAM AND CONTRIBUTING PROJECT -
 
