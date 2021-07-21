@@ -7,5 +7,5 @@ COVID-19 pandemic has brought some of the drastic changes to the world and it's 
                                                  [[satyaraj solanki]](https://github.com/Satyaraj291)
                                                  [Aditi] [stace] [Krisha] [Letícia]
                                                  
-                                                 THANK YOU GUYS FOR JOINING TEAM AND CONTRIBUTING PROJECT -
+                                             THANK YOU GUYS FOR JOINING TEAM AND CONTRIBUTING PROJECT -
 
